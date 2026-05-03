@@ -1,0 +1,68 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv
+venv/
+.env/
+.env.*
+
+# =====================
+# Environment variables
+# =====================
+.env
+*.env
+
+# =====================
+# Logs
+# =====================
+*.log
+logs/
+*.sqlite3
+*.db
+
+# =====================
+# IDEs
+# =====================
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =====================
+# OS Files
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# Testing / Coverage
+# =====================
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =====================
+# Machine Learning
+# =====================
+*.pkl
+*.joblib
+*.h5
+*.model
+models/trained/
+
+# =====================
+# Build / Distribution
+# =====================
+build/
+dist/
+*.egg-info/
+
+# =====================
+# Cache
+# =====================
+.cache/
