@@ -199,7 +199,9 @@ Detecção baseada em Deep Learning
 Threat Intelligence Feed
 Sistema distribuído
 MLOps para atualização contínua do modelo
- Autor
+
+
+Autor
 
 Gabriel Teixeira
 Software Developer
